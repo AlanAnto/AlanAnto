@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanAnto
 - 👀 I’m interested in gaming and coding.
-- 🌱 I’m currently learning for the Bachelor's degree in Technology on Computer Science.
+- 🌱 I’m a Full Stack Developer
 - 📫 How to reach me ...
 
 <!---
