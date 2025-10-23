@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlanAnto
 - 👀 I’m interested in gaming and coding.
 - 🌱 I’m a Full Stack Developer
-- 📫 bytesage01@gmail.com
 
 <!---
 AlanAnto/AlanAnto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
